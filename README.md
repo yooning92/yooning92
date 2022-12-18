@@ -9,7 +9,7 @@
 ```javascript
 const seongyoon = {
     pronouns: "He" | "Him",
-    code: ["Java", "Javascript"],
+    code: ["Java", "JavaScript"],
     liveIn: Manan-gu, Anyang-si, Republic of Korea
 };
 ```
