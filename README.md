@@ -34,7 +34,7 @@ const seongyoon = {
 ## 🔧 My Github stats
 <p>
   <a href="https://github.com/yooning92">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yooning92&layout=compact&show_icons=true&show_owner=yooning92&hide_title=false&theme=gruvbox" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yooning92&layout=compact&show_icons=true&show_owner=yooning92&hide_title=false&theme=gruvbox" />
   </a>
   <a href="https://github.com/yooning92">
     <img src="https://github-readme-stats.vercel.app/api/?username=yooning92&hide_title=false&show_icons=true&include_all_commits=ture&theme=gruvbox" />
