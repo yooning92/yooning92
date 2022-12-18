@@ -41,7 +41,4 @@ const seongyoon = {
   </a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yooning92)](https://github.com/yoonin92/github-readme-stats)
-[![yooning92's GitHub stats](https://github-readme-stats.vercel.app/api?username=yooning92)](https://github.com/yooning92/github-readme-stats)
-
 ![footer](https://capsule-render.vercel.app/api?section=footer)
