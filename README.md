@@ -32,8 +32,8 @@ const seongyoon = {
   
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
   
-  ![Oracle DB](https://img.shields.io/badge/Oracle DB-F80000?style=flat-square&logo=Oracle&logoColor=white)
-  ![Oracle SQL](https://img.shields.io/badge/Oracle SQL-F80000?style=flat-square&logo=Oracle&logoColor=white)
+  ![OracleDB](https://img.shields.io/badge/OracleDB-F80000?style=flat-square&logo=Oracle&logoColor=white)
+  ![OracleSQL](https://img.shields.io/badge/OracleSQL-F80000?style=flat-square&logo=Oracle&logoColor=white)
   
 ## 🌱 Currently Studying
  
