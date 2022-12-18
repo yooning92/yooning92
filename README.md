@@ -15,7 +15,7 @@ const seongyoon = {
 ```
 
 ## 📫 Social
-[![GitHub](icons/github.png)](https://github.com/yooning92)
+  [![GitHub](icons/github.png)](https://github.com/yooning92)
 
 ## 🚀💻 Technologies & Tools
   ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
