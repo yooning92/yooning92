@@ -35,7 +35,7 @@ const seongyoon = {
   ![OracleDB](https://img.shields.io/badge/OracleDB-F80000?style=flat-square&logo=Oracle&logoColor=white)
   ![OracleSQL](https://img.shields.io/badge/OracleSQL-F80000?style=flat-square&logo=Oracle&logoColor=white)
   
-  ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white)
+  ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse&logoColor=white)
   
 ## 🌱 Currently Studying
  
