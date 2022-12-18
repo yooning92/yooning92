@@ -18,7 +18,7 @@ const seongyoon = {
   [![GitHub](icons/github.png)](https://github.com/yooning92)
 
 ## 🚀💻 Technologies & Tools
-  ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=lat-square&logo=GitHub&logoColor=white)
   
   ![Linux](https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=black)
   ![Solaris](https://img.shields.io/badge/Solaris-F80000?style=flat-square&logo=Oracle&logoColor=white)
@@ -34,6 +34,8 @@ const seongyoon = {
   
   ![OracleDB](https://img.shields.io/badge/OracleDB-F80000?style=flat-square&logo=Oracle&logoColor=white)
   ![OracleSQL](https://img.shields.io/badge/OracleSQL-F80000?style=flat-square&logo=Oracle&logoColor=white)
+  
+  ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white)
   
 ## 🌱 Currently Studying
  
