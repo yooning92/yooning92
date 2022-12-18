@@ -4,7 +4,7 @@
 
 👋 Hi, I'm Seong-yoon Jeong
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  👆 
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
 ```javascript
 const seongyoon = {
@@ -14,10 +14,10 @@ const seongyoon = {
 };
 ```
 
-## 📫 Social
+## 📨 Social
   [![GitHub](icons/github.png)](https://github.com/yooning92)
 
-## 🚀💻 Technologies & Tools
+## 💻 Technologies & Tools
   ![GitHub](https://img.shields.io/badge/GitHub-181717?style=lat-square&logo=GitHub&logoColor=white)
   
   ![Linux](https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=black)
@@ -38,6 +38,7 @@ const seongyoon = {
   ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse&logoColor=white)
   
 ## 🌱 Currently Studying
+ 
  
 
 ## 🔧 My Github stats
