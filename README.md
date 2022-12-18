@@ -23,8 +23,6 @@ const seongyoon = {
   ![Linux](https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=black)
   
   ![Java](https://img.shields.io/badge/Java-orange?style=flat-square&logo=java)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-  
   ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)
   ![Spring-Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white)
   
@@ -32,6 +30,8 @@ const seongyoon = {
   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
   
   ![Apache-Tomcat](https://img.shields.io/badge/ApacheTomcat-F8DC75?style=flat-square&logo=ApacheTomcat&logoColor=white)
+  
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
   
   ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white)
   
