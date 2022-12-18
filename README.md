@@ -38,7 +38,7 @@ const seongyoon = {
   ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse&logoColor=white)
   
 ## 🌱 Currently Studying
- 
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
  
 
 ## 🔧 My Github stats
