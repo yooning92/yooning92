@@ -41,9 +41,9 @@ const seongyoon = {
   ![Python](https://img.shields.io/badge/-Python-white?style=flat-square&logo=python)
   ![React](https://img.shields.io/badge/-React-white?style=flat-square&logo=react)
   
-  ![AmazonAWS](https://img.shields.io/badge/-AmazonAWS-black?style=flat-square&logo=amazonaws&logoColor=yellow)
-  ![AmazonS3](https://img.shields.io/badge/-AmazonS3-black?style=flat-square&logo=amazons3&logoColor=orange)
-  ![AmazonRDS](https://img.shields.io/badge/-AmazonRDS-black?style=flat-square&logo=amazonrds&logoColor=white)
+  ![Amazon AWS](https://img.shields.io/badge/-AmazonAWS-black?style=flat-square&logo=amazonaws&logoColor=yellow)
+  ![Amazon S3](https://img.shields.io/badge/-AmazonS3-black?style=flat-square&logo=amazons3&logoColor=orange)
+  ![Amazon RDS](https://img.shields.io/badge/-AmazonRDS-black?style=flat-square&logo=amazonrds&logoColor=white)
   
  
 
