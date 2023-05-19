@@ -33,14 +33,14 @@ const seongyoon = {
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
   
   ![OracleSQL](https://img.shields.io/badge/OracleSQL-F80000?style=flat-square&logo=Oracle&logoColor=white)
-  ![PostgreSQL](https://img.shields.io/badge/postgresql-#4169E1?style=flat-square&logo=PostgreSQL&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/postgresql-#4169E1?style=flat-square&logo=PostgreSQL&logoColor=blue)
   
   ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse&logoColor=white)
   
 ## 🌱 Currently Studying
   ![Python](https://img.shields.io/badge/-Python-white?style=flat-square&logo=python)
   ![React](https://img.shields.io/badge/-React-white?style=flat-square&logo=react)
-  ![amazonaws](https://img.shields.io/badge/-AmazonAWS-black?style=flat-square&logo=amazonaws)
+  ![amazonaws](https://img.shields.io/badge/-AmazonAWS-black?style=flat-square&logo=amazonaws&logoColor=yellow)
   
  
 
