@@ -23,7 +23,7 @@ const seongyoon = {
   ![Linux](https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=black)
   ![Solaris](https://img.shields.io/badge/Solaris-F80000?style=flat-square&logo=Oracle&logoColor=white)
   
-  ![Java](https://img.shields.io/badge/Java-orange?style=flat-square&logo=Java)
+  ![Java](https://img.shields.io/badge/Java-orange?style=flat-square&logo=white)
   ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)
   ![Spring-Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white)
   
