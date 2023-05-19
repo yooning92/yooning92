@@ -39,6 +39,7 @@ const seongyoon = {
   
 ## 🌱 Currently Studying
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+  ![Python](https://img.shields.io/badge/-Python-white?style=flat-square&logo=python)
  
 
 ## 🔧 My Github stats
