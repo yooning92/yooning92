@@ -40,7 +40,7 @@ const seongyoon = {
 ## 🌱 Currently Studying
   ![Python](https://img.shields.io/badge/-Python-white?style=flat-square&logo=python)
   ![React](https://img.shields.io/badge/-React-white?style=flat-square&logo=react)
-  ![Amazon AWS](https://img.shields.io/badge/-Amazon AWS-white?style=flat-square&logo=Amazon AWS)
+  ![amazonaws](https://img.shields.io/badge/-Amazon AWS-white?style=flat-square&logo=amazonaws)
   
  
 
