@@ -10,7 +10,7 @@
 const seongyoon = {
     pronouns: "He" | "Him",
     code: ["Python", "Java", "JavaScript"],
-    liveIn: Manan-gu, Anyang-si, Republic of Korea
+    liveIn: Anyang-si, Republic of Korea
 };
 ```
 
