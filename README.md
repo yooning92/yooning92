@@ -36,6 +36,7 @@ const seongyoon = {
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-white?style=flat-square&logo=PostgreSQL&logoColor=blue)
   
   ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse&logoColor=white)
+  ![VSCode](https://img.shields.io/badge/VSCode-2C2255?style=flat-square&logo=VSCode&logoColor=white)
   
 ## 🌱 Currently Studying
   ![Python](https://img.shields.io/badge/-Python-white?style=flat-square&logo=python)
