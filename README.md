@@ -20,7 +20,7 @@ const seongyoon = {
 ## 💻 Technologies & Tools
   ![GitHub](https://img.shields.io/badge/GitHub-181717?style=lat-square&logo=GitHub&logoColor=white)
   
-  ![Linux](https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=Linux&logoColor=black)
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black)
   ![Solaris](https://img.shields.io/badge/Solaris-F80000?style=flat-square&logo=Oracle&logoColor=white)
   
   ![Java](https://img.shields.io/badge/Java-orange?style=flat-square&logo=Java&logoColor=white)
