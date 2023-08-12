@@ -34,6 +34,10 @@ const seongyoon = {
   
   ![OracleSQL](https://img.shields.io/badge/OracleSQL-F80000?style=flat-square&logo=Oracle&logoColor=white)
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-white?style=flat-square&logo=PostgreSQL&logoColor=blue)
+
+  ![Amazon AWS](https://img.shields.io/badge/-AmazonAWS-black?style=flat-square&logo=amazonaws&logoColor=yellow)
+  ![Amazon S3](https://img.shields.io/badge/-AmazonS3-black?style=flat-square&logo=amazons3&logoColor=orange)
+  ![Amazon RDS](https://img.shields.io/badge/-AmazonRDS-black?style=flat-square&logo=amazonrds&logoColor=white)
   
   
 ## 🌱 Currently Studying
@@ -41,9 +45,6 @@ const seongyoon = {
   
   ![React](https://img.shields.io/badge/-React-white?style=flat-square&logo=react)
   
-  ![Amazon AWS](https://img.shields.io/badge/-AmazonAWS-black?style=flat-square&logo=amazonaws&logoColor=yellow)
-  ![Amazon S3](https://img.shields.io/badge/-AmazonS3-black?style=flat-square&logo=amazons3&logoColor=orange)
-  ![Amazon RDS](https://img.shields.io/badge/-AmazonRDS-black?style=flat-square&logo=amazonrds&logoColor=white)
   
  
 
