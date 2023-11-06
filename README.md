@@ -58,4 +58,4 @@ const seongyoon = {
   </a>
 </p>
 
-![footer](https://capsule-render.vercel.app/api?section=footer)
+![footer](https://capsule-render.vercel.app/api?section=footer&type=waving)
