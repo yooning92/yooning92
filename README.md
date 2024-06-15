@@ -41,6 +41,11 @@ const seongyoon = {
   ![Amazon S3](https://img.shields.io/badge/-AmazonS3-black?style=flat-square&logo=amazons3&logoColor=orange)
   ![Amazon RDS](https://img.shields.io/badge/-AmazonRDS-black?style=flat-square&logo=amazonrds&logoColor=white)
 
+  ![Confluence](https://img.shields.io/badge/Confluence-000000?style=flat-square&logo=Confluence&logoColor=blue)
+  ![Jira](https://img.shields.io/badge/JIRA-000000?style=flat-square&logo=jira&logoColor=blue)
+  ![Slack](https://img.shields.io/badge/Slack-9468ab?style=flat-square&logo=Slack)
+
+  ![Figma](https://img.shields.io/badge/Figma-FFFFFF?style=flat-square&logo=Figma)
   
 ## 🌱 Currently Studying
   ![Python](https://img.shields.io/badge/-Python-white?style=flat-square&logo=python)
