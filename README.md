@@ -17,6 +17,7 @@ const seongyoon = {
 ## 📨 Social
   [![GitHub](icons/github.png)](https://github.com/yooning92)
 
+
 ## 💻 Technologies & Tools
   ![GitHub](https://img.shields.io/badge/GitHub-181717?style=lat-square&logo=GitHub&logoColor=white)
   
@@ -47,6 +48,7 @@ const seongyoon = {
 
   ![Figma](https://img.shields.io/badge/Figma-FFFFFF?style=flat-square&logo=Figma)
   
+
 ## 🌱 Currently Studying
   ![Python](https://img.shields.io/badge/-Python-white?style=flat-square&logo=python)
   
