@@ -33,7 +33,7 @@ const seongyoon = {
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
   
-  ![Oracle](https://img.shields.io/badge/OracleSQL-F80000?style=flat-square&logo=Oracle&logoColor=white)
+  ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white)
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-white?style=flat-square&logo=PostgreSQL&logoColor=blue)
   ![MySQL](https://img.shields.io/badge/MySQL-FFFFFF?style=flat-square&logo=mysql)
   
