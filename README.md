@@ -24,28 +24,28 @@ const seongyoon = {
   ![Solaris](https://img.shields.io/badge/Solaris-F80000?style=flat-square&logo=Oracle&logoColor=white)
   
   ![Java](https://img.shields.io/badge/Java-orange?style=flat-square&logo=Java&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-  
   ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)
   ![Spring-Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white)
+  
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+  ![React](https://img.shields.io/badge/-React-white?style=flat-square&logo=react)
   
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
   
-  ![OracleSQL](https://img.shields.io/badge/OracleSQL-F80000?style=flat-square&logo=Oracle&logoColor=white)
+  ![Oracle](https://img.shields.io/badge/OracleSQL-F80000?style=flat-square&logo=Oracle&logoColor=white)
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-white?style=flat-square&logo=PostgreSQL&logoColor=blue)
-
+  ![MySQL](https://img.shields.io/badge/MySQL-FFFFFF?style=flat-square&logo=mysql)
+  
   ![Amazon AWS](https://img.shields.io/badge/-AmazonAWS-black?style=flat-square&logo=amazonaws&logoColor=yellow)
   ![Amazon S3](https://img.shields.io/badge/-AmazonS3-black?style=flat-square&logo=amazons3&logoColor=orange)
   ![Amazon RDS](https://img.shields.io/badge/-AmazonRDS-black?style=flat-square&logo=amazonrds&logoColor=white)
-  
+
   
 ## 🌱 Currently Studying
   ![Python](https://img.shields.io/badge/-Python-white?style=flat-square&logo=python)
   
-  ![React](https://img.shields.io/badge/-React-white?style=flat-square&logo=react)
-  
-  
+  ![Vue](https://img.shields.io/badge/Vue-000000?style=flat-square&logo=Vue.js)
  
 
 ## 🔧 My Github stats
