@@ -38,7 +38,7 @@ const seongyoon = {
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-white?style=flat-square&logo=PostgreSQL&logoColor=blue)
   ![MySQL](https://img.shields.io/badge/MySQL-FFFFFF?style=flat-square&logo=mysql)
   
-  ![Amazon AWS](https://img.shields.io/badge/-AmazonAWS-black?style=flat-square&logo=amazonaws&logoColor=yellow)
+  ![Amazon EC2](https://img.shields.io/badge/-AmazonEC2-black?style=flat-square)
   ![Amazon S3](https://img.shields.io/badge/-AmazonS3-black?style=flat-square&logo=amazons3&logoColor=orange)
   ![Amazon RDS](https://img.shields.io/badge/-AmazonRDS-black?style=flat-square&logo=amazonrds&logoColor=white)
 
